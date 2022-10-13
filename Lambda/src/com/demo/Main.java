@@ -1,3 +1,8 @@
+/*1. Create a Thread using Lambda
+ *  Name: Payal Malawalkar
+ *  Dt.13 October 2022
+ */
+
 package com.demo;
 
 public class Main {
@@ -6,7 +11,7 @@ public class Main {
 		// anonymous class
 		Drawable d = new Drawable() {
 			public void draw() {
-				System.out.println("I am drawing circle");
+				System.out.println("I am drawing ");
 
 			}
 
